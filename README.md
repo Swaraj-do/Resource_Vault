@@ -74,13 +74,6 @@ npm install
 npm run dev                # http://localhost:5000
 ```
 
-`.env` values:
-```
-PORT=5000
-MONGODB_URI=mongodb+srv://user:pass@cluster0.xxxxx.mongodb.net/resource-vault
-JWT_SECRET=<run: node -e "console.log(require('crypto').randomBytes(64).toString('hex'))">
-FRONTEND_URL=http://localhost:5173
-```
 
 ### 3. Frontend
 ```bash

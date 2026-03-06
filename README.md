@@ -1,4 +1,4 @@
-# Resource Vault
+# 📚 ResourceVault 
 
 Resource Vault is a simple web platform designed to help students quickly access useful learning resources in one place.
 

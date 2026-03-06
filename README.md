@@ -1,6 +1,32 @@
-# 📚 ResourceVault v2
+# Resource Vault
 
-Flip cards to see your saved links AND uploaded files per topic. Full auth system included.
+Resource Vault is a simple web platform designed to help students quickly access useful learning resources in one place.
+
+Many students spend a lot of time searching across different websites for study materials, tutorials, and helpful links. Resource Vault aims to solve this problem by providing a centralized platform where students can easily find curated resources.
+
+## Features
+
+• Organized learning resources
+• Clean and simple user interface
+• Easy navigation for students
+• Fast and lightweight website
+
+## Live Website
+
+https://resource-vault-alpha.vercel.app/
+
+
+## Purpose
+
+The goal of this project is to create a centralized resource hub where students can quickly access helpful study materials without wasting time searching across multiple platforms.
+
+## Future Improvements
+
+* Add search functionality
+* Add categorized resources
+* Allow students to submit resources
+* Build a backend for dynamic content
+
 
 ---
 

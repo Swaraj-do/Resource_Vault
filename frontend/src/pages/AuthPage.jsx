@@ -4,7 +4,7 @@ import s from './AuthPage.module.css'
 
 export default function AuthPage() {
   const { login, register } = useAuth()
-  const [isLogin, setIsLogin] = useState(true)
+ const [isLogin, setIsLogin] = useState(!!localStorage.getItem('rv_token'))
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
   const [error, setError] = useState('')
